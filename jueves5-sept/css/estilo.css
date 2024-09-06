@@ -1,0 +1,228 @@
+.caja1{
+    background-color: darkblue;
+    width: 45px;
+    height: 45px;
+    position: relative;
+    border-radius: 100px;
+    left: 200px;
+}
+.caja2{
+    background-color: aqua;
+    width: 10px;
+    height: 50px;
+    border-radius: 80px;
+    position: relative;
+    left: 215px;
+}
+.caja3{
+    background-color: darkcyan;
+    width: 150px;
+    height: 150px;
+    left: 150px;
+    position: relative;
+}
+.caja3-1{
+    background-color:darkblue ;
+    border-radius: 90px;
+    width: 45px;
+    height: 45px;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+.caja3-2{
+    background-color: darkblue ;
+    border-radius: 90px;
+    width: 45px;
+    height: 45px;
+    position: relative;
+    right: 45px; 
+}
+.caja3-3{
+    background-color: rgb(2, 16, 16);
+    width: 45px;
+    height: 45px;
+    left: 10px;
+    top: -50px;
+    position: relative;
+}
+.caja3-4{
+    background-color: rgb(2, 16, 16);
+    width: 45px;
+    height: 45px;
+    left: 90px;
+    top: -95px;
+    position: relative;
+}
+.caja3-5{
+    background-color: darkblue;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    position: relative;
+    left: 57px;
+    bottom: 95px;
+}
+.caja3-6{
+    background-color: darkblue;
+    width: 80px;
+    height: 25px;
+    position: relative;
+    left: 34px;
+    bottom: 90px;
+}
+.caja3-7{
+    background-color: skyblue;
+    width: 30px;
+    height: 30px;
+    left: 20px;
+    top: -190px;
+    position: relative;
+}
+.caja3-8{
+    background-color: skyblue;
+    width: 30px;
+    height: 30px;
+    left: 99px;
+    top: -220px;
+    position: relative;
+}
+.caja3-9{
+    background-color: aqua;
+    width: 50px;
+    height: 9px;
+    position: relative;
+    left: 50px;
+    bottom: 168px;
+}
+.caja4{ 
+    background-color: darkcyan;
+    width: 43px;
+    height: 48px;
+    position: relative;
+    left: 200px;
+}
+.caja5{
+    background-color: darkcyan;
+    width: 175px;
+    height: 160px;
+    position: relative;
+    left: 140px;
+}
+.caja6{
+    background-color: darkcyan;
+    width: 115px;
+    height: 35px;
+    position: relative;
+    left: 167px;
+}
+.caja6-8{
+    background-color: teal;
+}
+.caja7{
+    background-color: darkcyan;
+    width: 220px;
+    height: 160px;
+    position: relative;
+    left: 120px;
+}
+.caja7-1{
+    background-color: rgb(17, 10, 95);
+    width: 35px;
+    height: 120px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.caja7-2{
+    background-color: rgb(17, 10, 95);
+    width: 35px;
+    height: 120px;
+    position: relative;
+    left: 90px;
+    top: -100px;
+}
+.caja7-3{
+    background-color: rgb(17, 10, 95);
+    width: 35px;
+    height: 120px;
+    position: relative;
+    left: 150px;
+    top: -220px;
+}
+.caja8{
+    background-color: blue;
+    width: 145px;
+    height: 45px;
+    position: relative;
+    bottom: 540px;
+    left: 35px;
+}
+.caja9{
+    background-color: blue;
+    width: 145px;
+    height: 45px;
+    position: relative;
+    bottom: 520px;
+    left: 35px;
+}
+.caja-mano{
+    background-color: darkslateblue;
+    width: 14px;
+    height: 120px;
+    position: relative;
+    bottom: 670px;
+    left: -25px;
+    transform: rotate(-45deg);
+    border-radius: 50px;
+}
+.caja-mano1{
+    background-color: darkslateblue;
+    width: 14px;
+    height: 120px;
+    position: relative;
+    bottom: 794px;
+    left: 220px;
+    transform: rotate(45deg);
+    border-radius: 50px;   
+}
+.caja-mano2{
+    background-color: darkslateblue;
+    width: 14px;
+    height: 50px;
+    position: relative;
+    top: -943px;
+    left: 245px;
+    transform: rotate(-40deg);
+    border-radius: 50px; 
+}
+.caja-mano3{
+    background-color: darkslateblue;
+    width: 14px;
+    height: 50px;
+    position: relative;
+    top: -975px;
+    left: 285px;
+    transform: rotate(80deg);
+    border-radius: 50px;
+}
+.caja-mano4{
+    background-color: darkslateblue;
+    width: 14px;
+    height: 50px;
+    position: relative;
+    top: -1038px;
+    left: -56px;
+    transform: rotate(37deg);
+    border-radius: 50px; 
+}
+.caja-mano5{
+    background-color: darkslateblue;
+    width: 14px;
+    height: 50px;
+    position: relative;
+    top: -1078px;
+    left: -90px;
+    transform: rotate(-60deg);
+    border-radius: 50px; 
+}
